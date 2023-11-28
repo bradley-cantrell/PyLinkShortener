@@ -1,6 +1,3 @@
 # PyLinkShortener
 
-Take a long URL
-Shorten it
-Store long url, short url, id
-Return values
+Link shortener that takes a long url, shortens it, and stores it with an ID.
